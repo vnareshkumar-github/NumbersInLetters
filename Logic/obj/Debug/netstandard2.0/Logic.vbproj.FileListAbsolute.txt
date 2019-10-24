@@ -1,0 +1,8 @@
+C:\Users\naresh.kumar\Documents\NumberLetters\Logic\bin\Debug\netstandard2.0\Logic.deps.json
+C:\Users\naresh.kumar\Documents\NumberLetters\Logic\bin\Debug\netstandard2.0\Logic.dll
+C:\Users\naresh.kumar\Documents\NumberLetters\Logic\bin\Debug\netstandard2.0\Logic.pdb
+C:\Users\naresh.kumar\Documents\NumberLetters\Logic\obj\Debug\netstandard2.0\Logic.vbprojAssemblyReference.cache
+C:\Users\naresh.kumar\Documents\NumberLetters\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfoInputs.cache
+C:\Users\naresh.kumar\Documents\NumberLetters\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfo.vb
+C:\Users\naresh.kumar\Documents\NumberLetters\Logic\obj\Debug\netstandard2.0\Logic.dll
+C:\Users\naresh.kumar\Documents\NumberLetters\Logic\obj\Debug\netstandard2.0\Logic.pdb
